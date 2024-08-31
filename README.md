@@ -22,10 +22,6 @@ I’m a 22-year-old Software Engineer, Entrepreneur, and Content Creator passion
 
 [![Join Our Discord](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG)
 
-### Explore My Projects:
-
----
-
 ### Profile Visits:
 
 ![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
