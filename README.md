@@ -1,7 +1,5 @@
 [![@carlcastanas](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
 
----
-
 [![Join Our Discord](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG)
 
 
