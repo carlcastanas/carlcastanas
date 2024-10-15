@@ -2,9 +2,12 @@
 
 ---
 
-### Join My Tech Community:
-
 [![Join Our Discord](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG)
+
+
+
+
+
 
 ### Profile Visits:
 
