@@ -10,8 +10,7 @@
 [![Join Our Discord](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=carlcastanas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=carlcastanas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
