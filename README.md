@@ -10,5 +10,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=carlcastanas&icon=2&color=1)](https://visitcount.itsvg.in)
 
+📍 🇷🇺 🇦🇺 🇵🇭
+
 [//]: <> (Credits: carlcastanas)  
-[//]: <> (Last edited on: 11/13/23)
+[//]: <> (Last edited on: 11/19/23)
