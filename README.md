@@ -4,10 +4,8 @@
 
 Welcome to the **Free IT Resources** repository! This is a curated collection of tools, tutorials, websites, and communities offering high-quality **free resources** for anyone interested in **Information Technology**, from beginners to professionals.
 
-## 🌐 Featured Website
-
-### [iCreatechs](https://icreatechs.com/)
-iCreatechs is a free platform providing a wide range of IT-related content including:
+### [Icreatechs](https://icreatechs.com/)
+Icreatechs is a free platform providing a wide range of IT-related content including:
 - 👨‍💻 Coding tutorials
 - 📚 Tech articles
 - 🔧 Tools & utilities
