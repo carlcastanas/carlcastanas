@@ -1,5 +1,21 @@
 [![@carlcastanas](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
 
+# 💻 FREE RESOURCES FOR IT
+
+Welcome to the **Free IT Resources** repository! This is a curated collection of tools, tutorials, websites, and communities offering high-quality **free resources** for anyone interested in **Information Technology**, from beginners to professionals.
+
+## 🌐 Featured Website
+
+### [iCreatechs](https://icreatechs.com/)
+iCreatechs is a free platform providing a wide range of IT-related content including:
+- 👨‍💻 Coding tutorials
+- 📚 Tech articles
+- 🔧 Tools & utilities
+- 📘 E-learning resources
+- 💬 Community discussions
+
+Perfect for learners, developers, and tech enthusiasts looking to expand their skills or stay updated on the latest in IT.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/carlcastanas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlcastanas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlcastanas) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@carlcastanas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cacastanas) 
 
