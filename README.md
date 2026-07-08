@@ -56,19 +56,6 @@ I run and grow developer communities totaling **800K+ members**:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlcastanas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Carl Andrew Castañas GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by carlcastanas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=carlcastanas&theme=tokyonight&hide_border=true" alt="carlcastanas GitHub streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/carlcastanas)
@@ -85,10 +72,6 @@ I run and grow developer communities totaling **800K+ members**:
 [![Join Our Discord](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=carlcastanas&icon=2&color=1" alt="Profile visitor count" />
-</p>
 
 <!-- Credits: carlcastanas -->
 <!-- Last edited on: 2026/07/06 -->
